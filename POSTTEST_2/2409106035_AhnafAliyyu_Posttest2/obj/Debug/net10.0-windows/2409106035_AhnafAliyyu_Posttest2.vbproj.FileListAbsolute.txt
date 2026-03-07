@@ -1,0 +1,16 @@
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest2\bin\Debug\net10.0-windows\2409106035_AhnafAliyyu_Posttest2.exe
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest2\bin\Debug\net10.0-windows\2409106035_AhnafAliyyu_Posttest2.deps.json
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest2\bin\Debug\net10.0-windows\2409106035_AhnafAliyyu_Posttest2.runtimeconfig.json
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest2\bin\Debug\net10.0-windows\2409106035_AhnafAliyyu_Posttest2.dll
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest2\bin\Debug\net10.0-windows\2409106035_AhnafAliyyu_Posttest2.pdb
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest2\obj\Debug\net10.0-windows\_2409106035_AhnafAliyyu_Posttest2.Form1.resources
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest2\obj\Debug\net10.0-windows\2409106035_AhnafAliyyu_Posttest2.vbproj.GenerateResource.cache
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest2\obj\Debug\net10.0-windows\2409106035_AhnafAliyyu_Posttest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest2\obj\Debug\net10.0-windows\2409106035_AhnafAliyyu_Posttest2.AssemblyInfoInputs.cache
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest2\obj\Debug\net10.0-windows\2409106035_AhnafAliyyu_Posttest2.AssemblyInfo.vb
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest2\obj\Debug\net10.0-windows\2409106035_AhnafAliyyu_Posttest2.vbproj.CoreCompileInputs.cache
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest2\obj\Debug\net10.0-windows\2409106035_AhnafAliyyu_Posttest2.dll
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest2\obj\Debug\net10.0-windows\refint\2409106035_AhnafAliyyu_Posttest2.dll
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest2\obj\Debug\net10.0-windows\2409106035_AhnafAliyyu_Posttest2.pdb
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest2\obj\Debug\net10.0-windows\2409106035_AhnafAliyyu_Posttest2.genruntimeconfig.cache
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest2\obj\Debug\net10.0-windows\ref\2409106035_AhnafAliyyu_Posttest2.dll
