@@ -1,0 +1,17 @@
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest3\bin\Debug\net10.0-windows\2409106035_AhnafAliyyu_Posttest3.exe
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest3\bin\Debug\net10.0-windows\2409106035_AhnafAliyyu_Posttest3.deps.json
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest3\bin\Debug\net10.0-windows\2409106035_AhnafAliyyu_Posttest3.runtimeconfig.json
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest3\bin\Debug\net10.0-windows\2409106035_AhnafAliyyu_Posttest3.dll
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest3\bin\Debug\net10.0-windows\2409106035_AhnafAliyyu_Posttest3.pdb
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest3\obj\Debug\net10.0-windows\_2409106035_AhnafAliyyu_Posttest3.Form1.resources
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest3\obj\Debug\net10.0-windows\_2409106035_AhnafAliyyu_Posttest3.Form2.resources
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest3\obj\Debug\net10.0-windows\2409106035_AhnafAliyyu_Posttest3.vbproj.GenerateResource.cache
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest3\obj\Debug\net10.0-windows\2409106035_AhnafAliyyu_Posttest3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest3\obj\Debug\net10.0-windows\2409106035_AhnafAliyyu_Posttest3.AssemblyInfoInputs.cache
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest3\obj\Debug\net10.0-windows\2409106035_AhnafAliyyu_Posttest3.AssemblyInfo.vb
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest3\obj\Debug\net10.0-windows\2409106035_AhnafAliyyu_Posttest3.vbproj.CoreCompileInputs.cache
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest3\obj\Debug\net10.0-windows\2409106035_AhnafAliyyu_Posttest3.dll
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest3\obj\Debug\net10.0-windows\refint\2409106035_AhnafAliyyu_Posttest3.dll
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest3\obj\Debug\net10.0-windows\2409106035_AhnafAliyyu_Posttest3.pdb
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest3\obj\Debug\net10.0-windows\2409106035_AhnafAliyyu_Posttest3.genruntimeconfig.cache
+C:\Users\advan\source\repos\2409106035_AhnafAliyyu_Posttest3\obj\Debug\net10.0-windows\ref\2409106035_AhnafAliyyu_Posttest3.dll

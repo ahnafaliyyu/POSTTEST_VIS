@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("2409106035_AhnafAliyyu_Posttes1_Pemvis"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e4270c92106903ca164dc20d1e16ce5c773bd09"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+991ecebddd2dad79bac6dc858d0540212c8039da"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("2409106035_AhnafAliyyu_Posttes1_Pemvis"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("2409106035_AhnafAliyyu_Posttes1_Pemvis"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
