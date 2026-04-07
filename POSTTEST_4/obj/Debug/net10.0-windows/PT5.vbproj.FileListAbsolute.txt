@@ -1,0 +1,17 @@
+C:\Users\advan\source\repos\PT5\bin\Debug\net10.0-windows\PT5.exe
+C:\Users\advan\source\repos\PT5\bin\Debug\net10.0-windows\PT5.deps.json
+C:\Users\advan\source\repos\PT5\bin\Debug\net10.0-windows\PT5.runtimeconfig.json
+C:\Users\advan\source\repos\PT5\bin\Debug\net10.0-windows\PT5.dll
+C:\Users\advan\source\repos\PT5\bin\Debug\net10.0-windows\PT5.pdb
+C:\Users\advan\source\repos\PT5\obj\Debug\net10.0-windows\PT5.Form1.resources
+C:\Users\advan\source\repos\PT5\obj\Debug\net10.0-windows\PT5.Form2.resources
+C:\Users\advan\source\repos\PT5\obj\Debug\net10.0-windows\PT5.vbproj.GenerateResource.cache
+C:\Users\advan\source\repos\PT5\obj\Debug\net10.0-windows\PT5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\advan\source\repos\PT5\obj\Debug\net10.0-windows\PT5.AssemblyInfoInputs.cache
+C:\Users\advan\source\repos\PT5\obj\Debug\net10.0-windows\PT5.AssemblyInfo.vb
+C:\Users\advan\source\repos\PT5\obj\Debug\net10.0-windows\PT5.vbproj.CoreCompileInputs.cache
+C:\Users\advan\source\repos\PT5\obj\Debug\net10.0-windows\PT5.dll
+C:\Users\advan\source\repos\PT5\obj\Debug\net10.0-windows\refint\PT5.dll
+C:\Users\advan\source\repos\PT5\obj\Debug\net10.0-windows\PT5.pdb
+C:\Users\advan\source\repos\PT5\obj\Debug\net10.0-windows\PT5.genruntimeconfig.cache
+C:\Users\advan\source\repos\PT5\obj\Debug\net10.0-windows\ref\PT5.dll
