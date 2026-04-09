@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\advan\\source\\repos\\Posttest5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B93582C-6578-B998-96D3-D5CEC2B48B3B}|Posttest5.vbproj|c:\\users\\advan\\source\\repos\\posttest5\\validationmodule1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6B93582C-6578-B998-96D3-D5CEC2B48B3B}|Posttest5.vbproj|solutionrelative:validationmodule1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B93582C-6578-B998-96D3-D5CEC2B48B3B}|Posttest5.vbproj|c:\\users\\advan\\source\\repos\\posttest5\\datamodule1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6B93582C-6578-B998-96D3-D5CEC2B48B3B}|Posttest5.vbproj|solutionrelative:datamodule1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B93582C-6578-B998-96D3-D5CEC2B48B3B}|Posttest5.vbproj|c:\\users\\advan\\source\\repos\\posttest5\\modulekoneksi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6B93582C-6578-B998-96D3-D5CEC2B48B3B}|Posttest5.vbproj|solutionrelative:modulekoneksi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B93582C-6578-B998-96D3-D5CEC2B48B3B}|Posttest5.vbproj|c:\\users\\advan\\source\\repos\\posttest5\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6B93582C-6578-B998-96D3-D5CEC2B48B3B}|Posttest5.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B93582C-6578-B998-96D3-D5CEC2B48B3B}|Posttest5.vbproj|c:\\users\\advan\\source\\repos\\posttest5\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6B93582C-6578-B998-96D3-D5CEC2B48B3B}|Posttest5.vbproj|solutionrelative:form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B93582C-6578-B998-96D3-D5CEC2B48B3B}|Posttest5.vbproj|c:\\users\\advan\\source\\repos\\posttest5\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6B93582C-6578-B998-96D3-D5CEC2B48B3B}|Posttest5.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidationModule1.vb",
+              "DocumentMoniker": "C:\\Users\\advan\\source\\repos\\Posttest5\\ValidationModule1.vb",
+              "RelativeDocumentMoniker": "ValidationModule1.vb",
+              "ToolTip": "C:\\Users\\advan\\source\\repos\\Posttest5\\ValidationModule1.vb",
+              "RelativeToolTip": "ValidationModule1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-09T13:04:17.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\advan\\source\\repos\\Posttest5\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\advan\\source\\repos\\Posttest5\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAGcAAAAAAAAAAADwv2sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-09T12:30:37.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Modulekoneksi.vb",
+              "DocumentMoniker": "C:\\Users\\advan\\source\\repos\\Posttest5\\Modulekoneksi.vb",
+              "RelativeDocumentMoniker": "Modulekoneksi.vb",
+              "ToolTip": "C:\\Users\\advan\\source\\repos\\Posttest5\\Modulekoneksi.vb",
+              "RelativeToolTip": "Modulekoneksi.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-09T12:31:09.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataModule1.vb",
+              "DocumentMoniker": "C:\\Users\\advan\\source\\repos\\Posttest5\\DataModule1.vb",
+              "RelativeDocumentMoniker": "DataModule1.vb",
+              "ToolTip": "C:\\Users\\advan\\source\\repos\\Posttest5\\DataModule1.vb",
+              "RelativeToolTip": "DataModule1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-09T13:03:49.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\advan\\source\\repos\\Posttest5\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\advan\\source\\repos\\Posttest5\\Form1.Designer.vb",
+              "RelativeToolTip": "Form1.Designer.vb",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAAwBMBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-09T12:29:51.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\advan\\source\\repos\\Posttest5\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\advan\\source\\repos\\Posttest5\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-09T12:28:57.387Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
